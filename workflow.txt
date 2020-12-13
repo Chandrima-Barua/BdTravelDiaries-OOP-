@@ -1,0 +1,18 @@
+1.The project was built for my former workplace in my internship. The goal of this project was to post complains regarding a company named "BD Travel" and for this the name of this project in "BD Travel Diaries".
+
+2. Here anyone can post any complain without signup in the site. At first go to "http://localhost/BdtravelDiaries/articles.php".
+3. After signin just by their anu user name they can post and make a flag of any existing post of others.
+4. There is no facility to flag own post.
+5.The flag notifications can be seen in admin side just after 3 secs interval. For that you will have to visit "http://localhost/BdtravelDiaries/admin.php" in same or different browser.
+
+
+
+*** Configuration***
+1. Run the local server by xampp/wampp in windows
+2.Create a database in phpmyadmin named "bdtravediaries";
+3. Import the database from main folder named "bdtravediaries.sql";
+4. Go to "http://localhost/BdtravelDiaries/articles.php";
+5.Signin by any username;
+6. You can find some posts there. You can post a new post and flag any existing post.
+7. To see the impact of flagging a post go to "http://localhost/BdtravelDiaries/admin.php".
+8. You can find all flags by 3 secs intervals.

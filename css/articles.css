@@ -1,0 +1,218 @@
+body {
+    background-color: #cfff95;
+    /*height: 200px;*/
+}
+.wrapper, .main{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    max-width:700px;
+    margin: auto;
+}
+h2 {
+
+    text-align: center;
+    color: #467215;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.form-inline {
+    padding-right: 30px;
+    text-align: center;
+
+}
+#title{
+    margin: auto;
+    padding: 5px;
+    width: 40%;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#art{
+    margin-right: 60px;
+    padding-left: 20px;
+    width: 550px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 35px;
+}
+#post{
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    background-color: #102527;
+    border: 1px solid black;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+.form-inline input[type="text"] {
+
+    margin: auto;
+    padding: 10px;
+    width: 60%;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 30px;
+
+}
+label{
+    color: #467215;
+
+}
+.form-inline button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 6px;
+    padding-top: 8px;
+    background-color: #102527;
+    border: 1px solid black;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+.form{
+    padding-top: 10px;
+}
+.all_post{
+    padding-top: 7px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: ghostwhite;
+    border: 1px solid ghostwhite;
+    border-radius: 5px;
+    margin: 10px;
+}
+.all_post li span{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #467215;
+}
+.date{
+    padding-top: 10px;
+    font-size: 15px;
+    color: #467215;
+}
+/*#opt {*/
+/*    !*background-color: #fff;*!*/
+/*    !*width: 100px;*!*/
+/*    !*!*height: 80px;*!*!*/
+/*    !*padding-bottom: 5px;*!*/
+/*    !*padding-top: 5px;*!*/
+/*    !*margin-top: 12px;*!*/
+/*    border: 2px solid black;*/
+/*    border-radius: 5px;*/
+
+/*    !*overflow: hidden;*!*/
+/*    margin-left: 500px;*/
+/*}*/
+.li_op li  {
+font-size: 14px;
+    /*position: fixed;*/
+   /*margin-left: 400px;*/
+
+
+}
+.li_op{
+    border-radius: 5px;
+    background-color: #fff;
+    border: 2px solid black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 12px;
+    width: 200px;
+    margin-left: 500px;
+    padding-left: 6px;
+    position: absolute;
+
+}
+
+li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.report{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 6px;
+    /*float: right;*/
+    margin-left: 15px;
+    background-color: #104c72;
+    border: 1px solid #104c72;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+.flag{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 6px;
+    padding-top: 6px;
+    float: right;
+    margin-right: 3px;
+    background-color: #102527;
+    border: 1px solid #102527;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.close {
+    margin-left: 80px;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+#admin {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#admin td {
+    /*border: 1px solid #ddd;*/
+    padding: 8px;
+
+}
+.title{
+    padding-left: 350px;
+}
+
+#admin th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: #467215;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+@media (max-width: 800px) {
+    .form-inline input {
+        margin: 10px 0;
+    }
+
+    .form-inline {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}

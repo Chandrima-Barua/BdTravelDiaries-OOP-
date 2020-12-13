@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1a3a71-c373-4a94-901c-fa3bd511d0a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Model/Flag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Notification.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles-add.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles-add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bdtravediaries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/bdtravediaries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flag-add.php" beforeDir="false" afterPath="$PROJECT_DIR$/flag-add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/article-backup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/article-js.php" beforeDir="false" afterPath="$PROJECT_DIR$/js/article-js.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notification-backup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notification-js.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notification-while-js.php" beforeDir="false" afterPath="$PROJECT_DIR$/js/notification-while-js.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification.php" beforeDir="false" afterPath="$PROJECT_DIR$/notification.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lTDQDUmrNVuiaHWCMuZVIIRsim" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BdtravelDiaries - Copy/admin.php" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\BdtravelDiaries\includes\Classes\Article" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1a3a71-c373-4a94-901c-fa3bd511d0a6" name="Default Changelist" comment="" />
+      <created>1607612170405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607612170405</updated>
+      <workItem from="1607612172036" duration="1463000" />
+      <workItem from="1607668565510" duration="34000" />
+      <workItem from="1607668743890" duration="549000" />
+      <workItem from="1607687965575" duration="920000" />
+      <workItem from="1607688982406" duration="10068000" />
+      <workItem from="1607700611519" duration="16000" />
+      <workItem from="1607769758455" duration="14378000" />
+      <workItem from="1607834501136" duration="3087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607835237021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607835237021" />
+    <state x="574" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1607835039700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607835039700" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607780740266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607780740266" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607689469020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607689469020" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607791994134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607791994134" />
+    <state x="479" y="145" width="578" height="534" key="find.popup" timestamp="1607770221764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="145" width="578" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607770221764" />
+  </component>
+</project>
